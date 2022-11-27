@@ -1,8 +1,9 @@
 This is the task 2
 
 There is an image provided as part of the question which is basically a circuit formed of logical gate. 
-I am attaching the image to the github repository so please give it a try. You can also read about the logical gates if you are not sure of what the symbols
-stand for.
+I am attaching the image to the github repository so please give it a try. You can also read about the logical gates if you are not sure of what the symbols stand for.
+
+Image name logic-lock.png
 
 The Answer:
 CTF(BCFIJ}
